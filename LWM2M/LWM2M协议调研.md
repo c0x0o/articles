@@ -54,7 +54,7 @@
 整个协议被设计为一个CS架构，为了实现client和serve之间的通信和操作，OMA定义下列4种接口：
 
 1. LWM2M-1 Bootstrap
-2. LWM2M-2 Clinet Registration 
+2. LWM2M-2 Client Registration 
 3. LWM2M-3 Device Management and Service Enablement
 4. LWM2M-4 Information Reporting
 
