@@ -38,7 +38,7 @@ option字段类似HTTP请求中的请求头，格式如下图：
 
 ![option](__SOURCE__/CoAP2.png)
 
-Option Delta代表选项编号，每个编号代表的请求头对应如下图：
+Option Delta代表选项编号的增量，从0开始，每次增加Option Delta就是当前头的编号，每个编号代表的请求头对应如下图：
 
 ![content_type](__SOURCE__/CoAP3.png)
 
